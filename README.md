@@ -2,7 +2,7 @@
 
 This is an Amazon-like storefront App made primarily using MySQL and JavaScript.
 
-In the bamazon.js file the app is able to take in orders from customers and depletes stock from the store's inventory. The app starts off displaying the current store products so the customer can choose their product.
+In the bamazon.js file, the app is able to take in orders from customers and depletes stock from the store's inventory. The app starts off displaying the current store products so the customer can choose their product.
 
 ![alt text](https://github.com/zeinabfarag/amazon/blob/master/Screenshots/display.png)
 
@@ -10,7 +10,7 @@ It then prompts the user to choose the id of the product they would like and how
 
 ![alt text](https://github.com/zeinabfarag/amazon/blob/master/Screenshots/purchase.png)
 
-In the bamazonManager.js file the app prompts the user with 4 options:
+In the bamazonManager.js file, the app prompts the user with 4 options:
 ![alt text](https://github.com/zeinabfarag/amazon/blob/master/Screenshots/manager.png)
 
 When view low inventory option is selected, the user is displayed the products in the database with a stock quantity lower than 5.
