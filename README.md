@@ -21,7 +21,7 @@ When add to inventory option is selected, the user is able to increase the stock
 ![alt text](https://github.com/zeinabfarag/amazon/blob/master/Screenshots/add%20inventory.png)
 
 When add new product option is selected, the user is able to insert a completely new product into the database. 
-![alt text](https://github.com/zeinabfarag/amazon/blob/master/Screenshots/add%20inventory.png)
+![alt text](https://github.com/zeinabfarag/amazon/blob/master/Screenshots/add%20product.png)
 
 
 This App requires an npm install.
