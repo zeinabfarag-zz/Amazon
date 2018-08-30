@@ -17,7 +17,7 @@ When view low inventory option is selected, the user is displayed the products i
 ![alt text](https://github.com/zeinabfarag/amazon/blob/master/Screenshots/low%20inventory.png)
 
 
-When add to inventory option is selected, the user is able to increase the stock quantity of any product and the quantity will be updated.
+When add to inventory option is selected, the user is able to increase the stock quantity of any product and the database will be updated.
 ![alt text](https://github.com/zeinabfarag/amazon/blob/master/Screenshots/add%20inventory.png)
 
 When add new product option is selected, the user is able to insert a completely new product into the database. 
