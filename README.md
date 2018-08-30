@@ -24,4 +24,4 @@ When add new product option is selected, the user is able to insert a completely
 ![alt text](https://github.com/zeinabfarag/amazon/blob/master/Screenshots/add%20product.png)
 
 
-This App requires an npm install.
+This App requires an npm install. It uses inquirer.js to prompt the user in the command terminal.
